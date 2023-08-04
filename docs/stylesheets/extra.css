@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;500&display=swap');
 
-:root {
-    --md-primary-fg-color: #A1CCD1;
-}
-
 [data-md-color-scheme="default"] {
     --md-default-bg-color: #151617;
-    --md-default-fg-color: #fee;
+    --md-default-fg-color: #eee;
     --md-default-fg-color--light: #def;
+    --md-primary-fg-color: #040405;
+    --md-typeset-a-color: #7dc7cf;
 }
 
 .md-header__topic {
