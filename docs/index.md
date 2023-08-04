@@ -1,1 +1,1 @@
-# What is Restack? t
+# What is Restack?
