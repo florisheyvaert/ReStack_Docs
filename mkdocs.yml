@@ -1,0 +1,35 @@
+site_name: Restack
+nav:
+  - Home:
+    - home.md
+  - Getting started:
+    - getting-started/installation.md
+    - getting-started/creation-first-stack.md
+    - Contributing:
+      - getting-started/report-bug.md
+      - getting-started/request-change.md
+  - Libraries:
+    - libraries/by-us.md
+    - libraries/by-community.md
+    - libraries/create-first-library.md
+theme:
+  name: material
+  logo: assets/images/logo.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+    - navigation.footer
+  palette:
+    primary: custom
+extra_css:
+  - stylesheets/extra.css
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
