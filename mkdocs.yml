@@ -1,7 +1,7 @@
 site_name: Restack
 nav:
   - Home:
-    - home.md
+    - index.md
   - Getting started:
     - getting-started/installation.md
     - getting-started/creation-first-stack.md
